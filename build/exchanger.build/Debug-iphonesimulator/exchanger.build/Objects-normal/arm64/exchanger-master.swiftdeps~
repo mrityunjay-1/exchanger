@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c8e4e7dab24291cfc1495e25972ee295633562b8132c8878ff36fef1c19f84b3"
+build_start_time: [1691927860, 463409000]
+build_end_time: [1691927860, 502949000]
+inputs:
+  "/Users/mrityunjay/XCodeProjects/exchanger/exchanger/AppDelegate.swift": !private [1691927856, 216342198]
+  "/Users/mrityunjay/XCodeProjects/exchanger/exchanger/SceneDelegate.swift": !private [1691927856, 218379260]
+  "/Users/mrityunjay/XCodeProjects/exchanger/exchanger/ViewController.swift": !private [1691927856, 219533794]

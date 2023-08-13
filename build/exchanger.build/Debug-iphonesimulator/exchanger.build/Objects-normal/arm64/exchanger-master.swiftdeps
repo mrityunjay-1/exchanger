@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c8e4e7dab24291cfc1495e25972ee295633562b8132c8878ff36fef1c19f84b3"
+build_start_time: [1691937877, 234772000]
+build_end_time: [1691937877, 780792000]
+inputs:
+  "/Users/mrityunjay/XCodeProjects/exchanger/exchanger/AppDelegate.swift": [1691927856, 216342198]
+  "/Users/mrityunjay/XCodeProjects/exchanger/exchanger/Controllers/ExchangeRateManager.swift": [1691936736, 115645776]
+  "/Users/mrityunjay/XCodeProjects/exchanger/exchanger/Controllers/ViewController.swift": [1691937877, 84046943]
+  "/Users/mrityunjay/XCodeProjects/exchanger/exchanger/Models/ExchangeRateModel.swift": [1691935789, 700875669]
+  "/Users/mrityunjay/XCodeProjects/exchanger/exchanger/SceneDelegate.swift": [1691927856, 218379260]
