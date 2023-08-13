@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2641D7902A89340500C14F55 /* ss1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2641D78F2A89340500C14F55 /* ss1.png */; };
 		26A15A662A88FCB000FCCEA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A15A652A88FCB000FCCEA8 /* AppDelegate.swift */; };
 		26A15A682A88FCB000FCCEA8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A15A672A88FCB000FCCEA8 /* SceneDelegate.swift */; };
 		26A15A6A2A88FCB000FCCEA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A15A692A88FCB000FCCEA8 /* ViewController.swift */; };
@@ -39,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2641D78E2A8932F200C14F55 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2641D78F2A89340500C14F55 /* ss1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss1.png; sourceTree = "<group>"; };
 		26A15A622A88FCB000FCCEA8 /* exchanger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = exchanger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26A15A652A88FCB000FCCEA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		26A15A672A88FCB000FCCEA8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,6 +88,7 @@
 		26A15A592A88FCB000FCCEA8 = {
 			isa = PBXGroup;
 			children = (
+				2641D78E2A8932F200C14F55 /* README.md */,
 				26A15A642A88FCB000FCCEA8 /* exchanger */,
 				26A15A7B2A88FCB100FCCEA8 /* exchangerTests */,
 				26A15A852A88FCB100FCCEA8 /* exchangerUITests */,
@@ -163,6 +167,7 @@
 		26A15A9E2A89046F00FCCEA8 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				2641D78F2A89340500C14F55 /* ss1.png */,
 				26A15A952A88FD8F00FCCEA8 /* bg.jpg */,
 			);
 			path = Assets;
@@ -274,6 +279,7 @@
 			files = (
 				26A15A722A88FCB100FCCEA8 /* LaunchScreen.storyboard in Resources */,
 				26A15A6F2A88FCB100FCCEA8 /* Assets.xcassets in Resources */,
+				2641D7902A89340500C14F55 /* ss1.png in Resources */,
 				26A15A962A88FD8F00FCCEA8 /* bg.jpg in Resources */,
 				26A15A6D2A88FCB000FCCEA8 /* Main.storyboard in Resources */,
 			);

@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+exchanger in exchanger, no dependencies
+exchangerTests in exchanger, depends on:
+exchanger in exchanger (explicit)
+exchangerUITests in exchanger, depends on:
+exchanger in exchanger (explicit)

@@ -7,6 +7,12 @@
   "configuredTargets" : [
     {
       "guid" : "6c476ac0c6dc6ea923e4e73cc5e73d3c1d70dd1ede0e6b33a8c7ae5fa1434481"
+    },
+    {
+      "guid" : "6c476ac0c6dc6ea923e4e73cc5e73d3cadbb250e5e320338923307032cb1f5ba"
+    },
+    {
+      "guid" : "6c476ac0c6dc6ea923e4e73cc5e73d3c8377cb3b0e76158e379badbad2d596be"
     }
   ],
   "containerPath" : "/Users/mrityunjay/XCodeProjects/exchanger/exchanger.xcodeproj",
